@@ -1,0 +1,26 @@
+html {
+  background-color: #151515;
+}
+
+h1 {
+  color: #FFDEAD;
+}
+
+h2 {
+  color: #FF6347;
+}
+
+ul,
+ol {
+  color: #FFDEAD;
+}
+
+a {
+  color: #FFD700;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFFFFF;
+  text-decoration: underline;
+}
