@@ -2,6 +2,11 @@ html {
   background-color: #151515;
 }
 
+h1,
+h2 {
+  text-align: center;
+}
+
 h1 {
   color: #FFDEAD;
 }
@@ -27,4 +32,10 @@ a {
 a:hover {
   color: #FFFFFF;
   text-decoration: underline;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
