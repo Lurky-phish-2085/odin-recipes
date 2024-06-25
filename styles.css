@@ -2,6 +2,12 @@ html {
   background-color: #151515;
 }
 
+main {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
 h1,
 h2 {
   text-align: center;
