@@ -1,3 +1,9 @@
+* {
+  color: #FFDEAD;
+  font-family: sans-serif serif;
+  font-size: 18px;
+}
+
 html {
   background-color: #151515;
 }
@@ -15,19 +21,12 @@ h2 {
 
 h1 {
   color: #FFDEAD;
+  font-size: 32px;
 }
 
 h2 {
   color: #FF6347;
-}
-
-p {
-  color: #FFDEAD;
-}
-
-ul,
-ol {
-  color: #FFDEAD;
+  font-size: 24px;
 }
 
 a {
